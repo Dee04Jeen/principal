@@ -1,4 +1,4 @@
-# somes projects:
+# Projects:
 <ol>
   <li>Qrcode</li>
 </ol>
